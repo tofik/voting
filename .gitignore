@@ -1,0 +1,8 @@
+*.pyc
+db.sqlite3
+*.py~
+templates/admin/*.py~
+templates/polls/*.py~
+*.html~
+templates/admin/*.html~
+templates/polls/*.html~
